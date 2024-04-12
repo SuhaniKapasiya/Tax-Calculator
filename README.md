@@ -17,27 +17,27 @@ This is a web application developed as a part of the Fyle Web Development Intern
 - Responsive design for compatibility with various devices.
 
 ## Screenshots
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="flex: 0 0 33.33%; max-width: 200px; margin: 10px;">
+    <div style="flex: 0 0 calc(33.33% - 20px); max-width: calc(33.33% - 20px); margin: 10px;">
         <img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946873/Screenshot_2024-04-12_230046_kuxtsr.png" alt="Screenshot 1" width="100%">
     </div>
-    <div style="flex: 0 0 33.33%; max-width: 200px; margin: 10px;">
+    <div style="flex: 0 0 calc(33.33% - 20px); max-width: calc(33.33% - 20px); margin: 10px;">
         <img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946936/Screenshot_2024-04-12_230134_g2b4uq.png" alt="Screenshot 2" width="100%">
     </div>
-    <div style="flex: 0 0 33.33%; max-width: 200px; margin: 10px;">
+    <div style="flex: 0 0 calc(33.33% - 20px); max-width: calc(33.33% - 20px); margin: 10px;">
         <img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946964/Screenshot_2024-04-12_230305_ktj5l1.png" alt="Screenshot 3" width="100%">
     </div>
-    <div style="flex: 0 0 33.33%; max-width: 200px; margin: 10px;">
+    <div style="flex: 0 0 calc(33.33% - 20px); max-width: calc(33.33% - 20px); margin: 10px;">
         <img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946978/Screenshot_2024-04-12_230322_i2aklo.png" alt="Screenshot 4" width="100%">
     </div>
-    <div style="flex: 0 0 33.33%; max-width: 200px; margin: 10px;">
+    <div style="flex: 0 0 calc(33.33% - 20px); max-width: calc(33.33% - 20px); margin: 10px;">
         <img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946991/Screenshot_2024-04-12_230410_v5ewqn.png" alt="Screenshot 5" width="100%">
     </div>
-    <div style="flex: 0 0 33.33%; max-width: 200px; margin: 10px;">
+    <div style="flex: 0 0 calc(33.33% - 20px); max-width: calc(33.33% - 20px); margin: 10px;">
         <img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712947012/Screenshot_2024-04-12_230430_tmsbqj.png" alt="Screenshot 6" width="100%">
     </div>
 </div>
+
 
 
 
