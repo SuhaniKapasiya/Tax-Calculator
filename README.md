@@ -18,17 +18,20 @@ This is a web application developed as a part of the Fyle Web Development Intern
 
 ## Screenshots
 
-![Screenshot 1](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946873/Screenshot_2024-04-12_230046_kuxtsr.png)
+## Screenshots
 
-![Screenshot 2](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946936/Screenshot_2024-04-12_230134_g2b4uq.png)
+<img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946873/Screenshot_2024-04-12_230046_kuxtsr.png" alt="Screenshot 1" width="200" height="auto">
 
-![Screenshot 3](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946964/Screenshot_2024-04-12_230305_ktj5l1.png)
+<img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946936/Screenshot_2024-04-12_230134_g2b4uq.png" alt="Screenshot 2" width="200" height="auto">
 
-![Screenshot 4](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946978/Screenshot_2024-04-12_230322_i2aklo.png)
+<img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946964/Screenshot_2024-04-12_230305_ktj5l1.png" alt="Screenshot 3" width="200" height="auto">
 
-![Screenshot 5](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946991/Screenshot_2024-04-12_230410_v5ewqn.png)
+<img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946978/Screenshot_2024-04-12_230322_i2aklo.png" alt="Screenshot 4" width="200" height="auto">
 
-![Screenshot 6](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712947012/Screenshot_2024-04-12_230430_tmsbqj.png)
+<img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946991/Screenshot_2024-04-12_230410_v5ewqn.png" alt="Screenshot 5" width="200" height="auto">
+
+<img src="https://res.cloudinary.com/dtqnuyqei/image/upload/v1712947012/Screenshot_2024-04-12_230430_tmsbqj.png" alt="Screenshot 6" width="200" height="auto">
+
 
 ## Setup Instructions
 
