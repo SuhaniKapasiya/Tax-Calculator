@@ -18,7 +18,17 @@ This is a web application developed as a part of the Fyle Web Development Intern
 
 ## Screenshots
 
-_(Include screenshots of your web application here)_
+![Screenshot 1](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946873/Screenshot_2024-04-12_230046_kuxtsr.png)
+
+![Screenshot 2](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946936/Screenshot_2024-04-12_230134_g2b4uq.png)
+
+![Screenshot 3](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946964/Screenshot_2024-04-12_230305_ktj5l1.png)
+
+![Screenshot 4](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946978/Screenshot_2024-04-12_230322_i2aklo.png)
+
+![Screenshot 5](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712946991/Screenshot_2024-04-12_230410_v5ewqn.png)
+
+![Screenshot 6](https://res.cloudinary.com/dtqnuyqei/image/upload/v1712947012/Screenshot_2024-04-12_230430_tmsbqj.png)
 
 ## Setup Instructions
 
@@ -32,7 +42,6 @@ To run this application locally, follow these steps:
 - HTML
 - CSS
 - JavaScript
-
 
 ## Assumptions
 
