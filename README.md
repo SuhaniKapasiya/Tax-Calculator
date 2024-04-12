@@ -40,7 +40,6 @@ This is a web application developed as a part of the Fyle Web Development Intern
 
 
 
-
 ## Setup Instructions
 
 To run this application locally, follow these steps:
