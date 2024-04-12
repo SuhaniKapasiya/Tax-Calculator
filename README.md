@@ -4,7 +4,7 @@ This is a web application developed as a part of the Fyle Web Development Intern
 
 ## Live Demo
 
-[Link to the hosted Web App](#) _(Replace this with your hosted web app link)_
+[Link to the hosted Web App]([https://example.com](https://suhanikapasiya.github.io/Tax-Calculator/))
 
 ## Features
 
@@ -32,8 +32,7 @@ To run this application locally, follow these steps:
 - HTML
 - CSS
 - JavaScript
-- Bootstrap (optional)
-- jQuery (optional)
+
 
 ## Assumptions
 
@@ -49,11 +48,4 @@ To run this application locally, follow these steps:
 
 ## Author
 
-[Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-© [Year] [Your Name]
+Suhani
