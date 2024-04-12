@@ -4,7 +4,7 @@ This is a web application developed as a part of the Fyle Web Development Intern
 
 ## Live Demo
 
-[Link to the hosted Web App]([https://example.com](https://suhanikapasiya.github.io/Tax-Calculator/))
+[Link to the hosted Web App](https://suhanikapasiya.github.io/Tax-Calculator/)
 
 ## Features
 
