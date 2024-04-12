@@ -10,14 +10,24 @@
     <div class="container">
         <h1>Tax Calculator</h1>
         <form id="taxForm">
+           
+           
+        <div class="input-group">
+                <label for="grossIncome">
+                     Gross Annual Income (Lakhs) 
+                     <span class="question-mark"  class="tooltip" data-tooltip="gross income is your total salary  in a year before deduction">?</span>
+               </label>
+                 <input type="number" id="grossIncome" min="0" placeholder="Enter gross annual Income" required>
+                 <span class="error-icon" id="grossIncomeError">!</span>
+          </div>
+
+
             <div class="input-group">
-                <label for="grossIncome">Gross Annual Income (Lakhs):</label>
-                <input type="number" id="grossIncome" min="0" required>
-                <span class="error-icon" id="grossIncomeError">!</span>
-            </div>
-            <div class="input-group">
-                <label for="extraIncome">Extra Income (Lakhs):</label>
-                <input type="number" id="extraIncome" min="0" required>
+                <label for="extraIncome"  >
+                    Extra Income (Lakhs) 
+                    <span class="question-mark" class="tooltip" data-tooltip=" extra income from all sources">?</span>
+                </label>
+                <input type="number" id="extraIncome" min="0" placeholder="Enter extra income from all sources" required>
                 <span class="error-icon" id="extraIncomeError">!</span>
             </div>
             <div class="input-group">
@@ -31,7 +41,7 @@
             </div>
             <div class="input-group">
                 <label for="deductions">Total Application Deduction (Lakhs):</label>
-                <input type="number" id="deductions" min="0" required>
+                <input type="number" id="deductions" min="0" placeholder="Add total application deduction" required>
                 <span class="error-icon" id="deductionsError">!</span>
             </div>
             <div class="input-group">
@@ -40,13 +50,22 @@
         </form>
     </div>
 
-    <div id="resultModal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <p id="taxResult"></p>
-        </div>
+ <div id="resultModal" class="modal">
+    <div class="modal-content">
+        <p id="taxResult" class="result-text">
+            <span class="main-text">Your overall income will be</span>
+            <br>
+            <span id="incomeAmount"></span> Lakhs
+            <br>
+            <span class="sub-text">after tax deduction</span>
+        </p>
+        <button class="close">Close</button>
     </div>
+</div>
+
+
 
     <script src="./index.js"></script>
 </body>
 </html>
+
